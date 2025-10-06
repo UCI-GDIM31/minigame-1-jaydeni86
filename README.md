@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/d-DorLAf)
 # minigame-1
 ## Devlog
-Write your Devlog here.
+Components are each troop's design and every card’s mechanic,  GameObjects are the troops/ cards you play, and the scene is the arena you fight in. What will be described is very much familiar to people who play Clash Royale. The components that make up the cards, including their spawn time, how much damage they do, their damage, health points, and even if they can cross over the river or will travel over the bridge. It’s applied to cards such as Prince, Giant, Pekka, and Firecracker. GameObjects are the physical troops you play, holding the health, damage, etc., using each card’s information to affect. The scene is the arena you play on, most of them differing by their theme, yet all consist of the same components: 1 king tower and 2 side towers per player, two traversable bridges, and a river right splitting the two sides apart. Altogether, there’s information on the card, and then the cards are played on the arena, making the relationship of game components in Clash Royale.
 ## Open-Source Assets
 - Starter first-person assets: https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525
 - Low poly platformer kit: https://assetstore.unity.com/packages/3d/environments/lowpoly-platformer-kit-free-modular-stylized-blocks-319018 
